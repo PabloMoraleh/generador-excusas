@@ -10,7 +10,7 @@ window.onload = () => {
 
 let generateExcuse = () => {
   let who = ["El perro", "Mi abuela", "Mi tortuga", "Mi pajaro"];
-  let action = ["se comió", "orinó", "aplastó", "rompió"];
+  let action = ["se comió", "orinó en", "aplastó", "rompió"];
   let what = ["mi tarea", "las llaves", "el coche"];
   let when = [
     "antes de clases",
