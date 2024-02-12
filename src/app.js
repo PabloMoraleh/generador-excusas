@@ -13,11 +13,11 @@ let generateExcuse = () => {
   let action = ["se comió", "orinó en", "aplastó", "rompió"];
   let what = ["mi tarea", "las llaves", "el coche"];
   let when = [
-    "antes de clases",
-    "justo a tiempo",
-    "cuando acabé",
-    "durante mi almuerzo",
-    "mientras rezaba"
+    "antes de clases!",
+    "justo a tiempo!",
+    "cuando acabé!",
+    "durante mi almuerzo!",
+    "mientras rezaba!"
   ];
 
   let whoIndex = Math.floor(Math.random() * who.length);
